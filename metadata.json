@@ -1,0 +1,6 @@
+{
+  "name": "Kids Storybook & Illustrator",
+  "description": "An interactive storybook reader and reader for kids that writes stories, reads them aloud, and generates rich illustrations for every page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
